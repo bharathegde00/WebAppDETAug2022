@@ -1,0 +1,16 @@
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\bin\Release\net6.0\simpleapp.exe
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\bin\Release\net6.0\Settings.job
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\bin\Release\net6.0\simpleapp.deps.json
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\bin\Release\net6.0\simpleapp.runtimeconfig.json
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\bin\Release\net6.0\simpleapp.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\bin\Release\net6.0\simpleapp.pdb
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\simpleapp.csproj.AssemblyReference.cache
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\simpleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\simpleapp.AssemblyInfoInputs.cache
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\simpleapp.AssemblyInfo.cs
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\simpleapp.csproj.CoreCompileInputs.cache
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\simpleapp.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\refint\simpleapp.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\simpleapp.pdb
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\simpleapp.genruntimeconfig.cache
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\ref\simpleapp.dll

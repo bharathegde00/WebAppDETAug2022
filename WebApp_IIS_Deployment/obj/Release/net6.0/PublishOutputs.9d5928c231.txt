@@ -1,0 +1,7 @@
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\WebApp_IIS_Deployment.exe
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\WebApp_IIS_Deployment.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\WebApp_IIS_Deployment.deps.json
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\WebApp_IIS_Deployment.runtimeconfig.json
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\WebApp_IIS_Deployment.pdb

@@ -1,0 +1,6 @@
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\simpleapp\Settings.job
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\simpleapp\simpleapp.exe
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\simpleapp\simpleapp.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\simpleapp\simpleapp.deps.json
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\simpleapp\simpleapp.runtimeconfig.json
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\simpleapp\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\simpleapp\simpleapp.pdb
