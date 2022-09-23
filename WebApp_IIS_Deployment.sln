@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp_IIS_Deployment", "We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleapp", "simpleapp\simpleapp.csproj", "{6F0BE3B1-4A85-42AF-BDA5-F88A87554520}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobQuickstartV12", "BlobQuickstartV12\BlobQuickstartV12.csproj", "{13C07B6A-0664-44C9-9196-DCA9D7249AAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6F0BE3B1-4A85-42AF-BDA5-F88A87554520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F0BE3B1-4A85-42AF-BDA5-F88A87554520}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F0BE3B1-4A85-42AF-BDA5-F88A87554520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C07B6A-0664-44C9-9196-DCA9D7249AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C07B6A-0664-44C9-9196-DCA9D7249AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C07B6A-0664-44C9-9196-DCA9D7249AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C07B6A-0664-44C9-9196-DCA9D7249AAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

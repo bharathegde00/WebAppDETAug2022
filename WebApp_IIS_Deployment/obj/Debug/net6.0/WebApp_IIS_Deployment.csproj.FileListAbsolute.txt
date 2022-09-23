@@ -24,3 +24,10 @@ C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Debug
 C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Debug\net6.0\WebApp_IIS_Deployment.pdb
 C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Debug\net6.0\WebApp_IIS_Deployment.genruntimeconfig.cache
 C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Debug\net6.0\ref\WebApp_IIS_Deployment.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\etg1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Debug\net6.0\WebApp_IIS_Deployment.csproj.CopyComplete
